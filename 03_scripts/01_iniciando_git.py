@@ -1,2 +1,4 @@
 print("Hello Git")
-print("Sesión 1")
+print("Sesión 2")
+
+# Estamos trabajando en un nuevo commit
