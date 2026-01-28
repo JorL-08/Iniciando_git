@@ -9,3 +9,6 @@ print("Agregado por Hairo")
 
 # Agregado para plot
 print("Yosmel")
+
+# Agregado para iamgen
+print("Cesar")
