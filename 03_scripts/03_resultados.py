@@ -6,3 +6,6 @@ print ("Tabla 1")
 
 # Agregado para la tabla 1
 print("Agregado por Hairo")
+
+# Agregado para plot
+print("Yosmel")
